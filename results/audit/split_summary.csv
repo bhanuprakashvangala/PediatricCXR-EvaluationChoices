@@ -1,0 +1,12 @@
+quantity,value
+released train images,5216
+released test images,624
+exact duplicate copies removed from train,26
+exact duplicate copies removed from test,6
+training pool after removal,5190
+patient/study groups in training pool,2635
+groups in validation split,395
+train images,4420
+validation images,770
+test images,618
+test positive rate (released),0.625

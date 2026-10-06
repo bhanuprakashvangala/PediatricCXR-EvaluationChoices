@@ -15,7 +15,7 @@ authors:
     given-names: Navya
 license: MIT
 preferred-citation:
-  type: generic
+  type: article
   title: "Evaluation Choices Shape Biomedical ML Claims: A Pediatric Pneumonia Benchmark Case Study"
   authors:
     - family-names: Vangala
@@ -26,5 +26,7 @@ preferred-citation:
       given-names: Latha
     - family-names: Vangala
       given-names: Navya
+  journal: "arXiv preprint arXiv:2609.37848"
   year: 2026
-  notes: "Under review at the RCMLR Workshop (Responsible Communication of Machine Learning Research in Biomedicine) at NeurIPS 2026"
+  doi: "10.48550/arXiv.2609.37848"
+  url: "https://arxiv.org/abs/2609.37848"

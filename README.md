@@ -71,11 +71,14 @@ is why the audit uses NCC.
 ## Citation
 
 ```bibtex
-@misc{vangala2026evaluation,
-  title  = {Evaluation Choices Shape Biomedical ML Claims: A Pediatric Pneumonia Benchmark Case Study},
-  author = {Vangala, Bhanu Prakash and Guda, Sowmya and Peddi, Latha and Vangala, Navya},
-  year   = {2026},
-  note   = {Under review at the RCMLR Workshop at NeurIPS 2026}
+@misc{vangala2026evaluationchoicesshapebiomedical,
+      title={Evaluation Choices Shape Biomedical ML Claims: A Pediatric Pneumonia Benchmark Case Study},
+      author={Bhanu Prakash Vangala and Sowmya Guda and Latha Peddi and Navya Vangala},
+      year={2026},
+      eprint={2609.37848},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2609.37848},
 }
 ```
 
